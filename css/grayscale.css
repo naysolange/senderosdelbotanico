@@ -309,3 +309,8 @@ a:focus, a:hover {
 footer {
   padding: 5rem 0;
 }
+
+.mapa-img {
+  padding-top: 4rem;
+  padding-bottom: 2rem;
+}
