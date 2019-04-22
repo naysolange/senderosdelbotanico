@@ -21,8 +21,6 @@
 }
 
 .carousel-item>img {
-    min-width: max-content;
-    height: max-content;
     display:block;
     margin:auto;
 }
